@@ -1,0 +1,12 @@
+---
+enable: true
+title: Have a look our awesome app screenshots
+description: Get notifications of events and find all the related information through the slick and modern mobile app
+
+images:
+  - url: images/11.png.webp
+  - url: images/22.png.webp
+  - url: images/33.png.webp
+  - url: images/11.png.webp
+  - url: images/22.png.webp
+  - url: images/33.png.webp

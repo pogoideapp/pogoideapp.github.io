@@ -1,0 +1,16 @@
+#  icons can be found on https://themify.me/themify-icons
+---
+enable: true
+title: You can benefit more than you think
+services:
+  - icon: ti-calendar
+    title: Push Notifications
+    description: Get notifications both for upcoming and started events
+
+  - icon: ti-info-alt
+    title: Beautiful Infographics
+    description: All the details you need in one place
+
+  - icon: ti-list
+    title: Detailed Descriptions
+    description: Every detail and official announcements are available
