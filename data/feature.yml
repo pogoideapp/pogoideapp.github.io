@@ -1,13 +1,14 @@
 ---
 enable: true
-title: Get every detail of an event
+title: Get every detail of every event
 description: Current and upcoming events on your fingerprints.
 description2: Never miss and never be unprepared for an event.
 Title2nd: Great infographics
 description2nd: Easy to understand and comprehensive.
 image1: images/223.png.png
-image2: images/33.png.webp
+image2: images/33.png
 checkItem:
   - text: Date and time
-  - text: Tips and tricks
   - text: Category
+  - text: Tips and tricks
+  - text: Boss info
