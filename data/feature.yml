@@ -1,14 +1,13 @@
 ---
 enable: true
-title: Ultimate experiences with story, emotion
-description: The quick, brown fox jumps over a lazy dog. DJs flock by when MTV ax quiz prog. Junk MTV quiz graced by fox whelps.Error6251 is the best, Bawds jog, flick quartz, vex nymphs.
-description2: Brick quiz whangs jumpy veldt fox. Bright vixens jump; dozy fowl quack. Quick wafting zephyrs.
-buttonText: Try It Free
-Title2nd: Product start analytics with real problems.
-description2nd: The quick, brown fox jumps over a lazy dog. DJs flock by when MTV ax quiz prog. Junk MTV quiz graced by fox whelps.Error6251 is the best, Bawds jog, flick quartz, vex nymphs.
-image1: images/22.png.webp
+title: Get every detail of an event
+description: Current and upcoming events on your fingerprints.
+description2: Never miss and never be unprepared for an event.
+Title2nd: Great infographics
+description2nd: Easy to understand and comprehensive.
+image1: images/223.png.png
 image2: images/33.png.webp
 checkItem:
-  - text: Next to the hosting account you want to use.
-  - text: Select or enter the domain name you want to use.
-  - text: After you purchase a hosting plan.
+  - text: Date and time
+  - text: Tips and tricks
+  - text: Category

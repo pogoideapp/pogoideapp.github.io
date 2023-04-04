@@ -1,19 +1,8 @@
 # MAIN base
 baseURL = "https://pogoideapp.github.io/"
 languageCode = "en-us"
-title = "Pogoide - GO Notifications and Events"
+title = "Pogoide | GO Notifications and Events"
 theme = "apsho-hugo-theme"
-
-# Navigation Bar
-[[menu.main]]
-    name = "Home"
-    url = "#hero"
-    weight = 1
-[[menu.main]]
-    name = "About"
-    url = "#feature"
-    weight = 2
-
 
 [params]
 
